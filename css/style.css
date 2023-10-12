@@ -1,0 +1,9 @@
+.dark{
+    background-color: rgb(153, 180, 171);
+}
+.carousel-control-prev {
+    left: -5%;
+}
+.carousel-control-next {
+    right: -5%;
+}
